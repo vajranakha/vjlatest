@@ -1,0 +1,72 @@
+[
+    {
+        "ID": 2,
+        "Product Name": "NAME",
+        "Price (INR)": "PRICE : INR",
+        "Category": "CATEGORY",
+        "Link": "LINK"
+    },
+    {
+        "ID": 6,
+        "Product Name": "SUDARSHANA YANTRA",
+        "Price (INR)": 850,
+        "Category": "FRAMED YANTRA",
+        "Link": "https://drive.google.com/file/d/1Ziz2N7PZ46C2613W7EU1-p7dk3CJWZfH/view?usp=share_link\n\nhttps://drive.google.com/file/d/1HFbF9olfGfX3rqwcdRLOqOSNM3t-RcAI/view?usp=share_link"
+    },
+    {
+        "ID": 16,
+        "Product Name": "SILVER SHANKA 2.5 INCH",
+        "Price (INR)": 2150,
+        "Category": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1tKiuNgV4dnAOEgg2gdMdZDJxHsGUp_Zi/view?usp=share_link\n\nhttps://drive.google.com/file/d/1TnxAdSi79_AmSpr9Brj3vK0hiOoLK_-g/view?usp=share_link\n\nhttps://drive.google.com/file/d/18_TVI6DePzFrAeFeFscX-RfXpq6Ypaod/view?usp=share_link"
+    },
+    {
+        "ID": 17,
+        "Product Name": "SILVER SHANKA 3 INCH",
+        "Price (INR)": 2600,
+        "Category": "SILVER PRODUCTS",
+        "Link": null
+    },
+    {
+        "ID": 18,
+        "Product Name": "SILVER SHANKA 4 INCH",
+        "Price (INR)": 3100,
+        "Category": "SILVER PRODUCTS",
+        "Link": null
+    },
+    {
+        "ID": 19,
+        "Product Name": "SILVER SHANKA 4.5 INCH",
+        "Price (INR)": 3400,
+        "Category": "SILVER PRODUCTS",
+        "Link": null
+    },
+    {
+        "ID": 20,
+        "Product Name": "SILVER SHANKA 5 INCH",
+        "Price (INR)": 3800,
+        "Category": "SILVER PRODUCTS",
+        "Link": null
+    },
+    {
+        "ID": 22,
+        "Product Name": "DAKSHINAVARTI SILVER SHANKA 3 INCH",
+        "Price (INR)": 2600,
+        "Category": "SILVER PRODUCTS",
+        "Link": null
+    },
+    {
+        "ID": 23,
+        "Product Name": "DAKSHINAVARTI SILVER SHANKA 4 INCH",
+        "Price (INR)": 3100,
+        "Category": "SILVER PRODUCTS",
+        "Link": null
+    },
+    {
+        "ID": 25,
+        "Product Name": "PUJAS AND SEVAS",
+        "Price (INR)": null,
+        "Category": null,
+        "Link": null
+    }
+]

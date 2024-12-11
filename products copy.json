@@ -1,0 +1,221 @@
+[
+    {
+        "ID": 3,
+        "name": "YANTRODHARA YANTRA",
+        "Category-Product": "COPPER YANTRA- BEST SELLING",
+        "Link": "https://drive.google.com/file/d/1Z5vSJKY1yqtObYkcHUxxvnivzHDQmac5/view?usp=sharing",
+        "image": "images/3.jpeg",
+        "price": 250,
+        "Category":"Products"
+    },
+    {
+        "ID": 4,
+        "name": "YANTRODHARA PENDANT",
+        "Category-Product": "COPPER YANTRA PENDANT",
+        "Link": "https://drive.google.com/file/d/1VBdURpHYpC5OlJhOyW2by_6q_QPpZ1xt/view?usp=share_link",
+        "image": "images/4.jpeg",
+        "price": 200,
+        "Category":"Products"
+        
+    },
+    {
+        "ID": 5,
+        "name": "VAGDEVI KAVACH",
+        "Category-Product": "PENDANT- SEASONAL",
+        "Link": "https://drive.google.com/file/d/1gZFZUTmEVof-6PNrdooZhHxCNH8RF-91/view?usp=share_link",
+        "image": "images/5.jpeg",
+        "price": 250,
+        "Category":"Products"
+    },
+    {
+        "ID": 7,
+        "name": "SILVER TULASI BEADS (54 BEADS)",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1iHJ0G6EhT0VRkk76i8Rr3c2QkYlKxLVL/view?usp=share_link",
+        "image": "images/7.jpg",
+        "price": 2100,
+        "Category-product":"Products"
+    },
+    {
+        "ID": 8,
+        "name": "SILVER RUDRAKSHA BEADS (54 BEADS)",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1RKtkBP1QWhWpDMlX5I-2MD-50sBZIuJh/view?usp=share_link",
+        "image": "images/8.jpg",
+        "price": 2100,
+        "Category":"Products"
+    },
+    {
+        "ID": 9,
+        "name": "SUDARSHANA SALIGRAM MAALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/17vIwnwVSMBcHPTJa28wk-NxHIO6oQkk5/view?usp=share_link",
+        "image": "images/9.jpg",
+        "price": 12500,
+        "Category":"Products"
+    },
+    {
+        "ID": 10,
+        "name": "3 INCH CORAL MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1i4W4-A8jCrtSj13xQmH3LmSd21g9Qh2H/view?usp=share_link",
+        "image": "images/10.jpeg",
+        "price": 900,
+        "Category":"Products"
+    },
+    {
+        "ID": 11,
+        "name": "3 INCH PEARLS MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1N30n957Ou34ebi9fMTSkP9BL-ctfLWde/view?usp=share_link",
+        "image": "images/11.jpg",
+        "price": 450,
+        "Category":"Products"
+    },
+    {
+        "ID": 12,
+        "name": "3 INCH NAVARATNA MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1iP3OTkCqLBlQQtZPTj8NOOOeCHXtzdN4/view?usp=share_link",
+        "image": "images/12.jpg",
+        "price": 1400,
+        "Category":"Products"
+    },
+    {
+        "ID": 13,
+        "name": "3 INCH PEAR- CORAL MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jqGYLoA2X49zYzh6R0tHFSeBxjWsRTyj/view?usp=share_link",
+        "image": "images/13.jpg",
+        "price": 1150,
+        "Category":"Products"
+    },
+    {
+        "ID": 14,
+        "name": "3 INCH MANGALYA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1gLTHD3xoIkaueYEyK-Tq_-gcQOHmko-j/view?usp=sharing",
+        "image": "images/14.jpg",
+        "price": 850,
+        "Category":"Products"
+    },
+    {
+        "ID": 15,
+        "name": "11 INCH LAKSHMI COIN MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1QgE8tE9pt8XFDRxyfGccExHfrl9u4oEQ/view?usp=share_link",
+        "image": "images/15.jpeg",
+        "price": 3500,
+        "Category":"Products"
+
+    },
+
+    {
+        "ID": 16,
+        "name": "SILVER SHANKA 2.5 INCH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1QgE8tE9pt8XFDRxyfGccExHfrl9u4oEQ/view?usp=share_link",
+        "image": "images/16.png",
+        "price": 2150,
+        "Category":"Products"
+
+    },
+    {
+        "ID": 17,
+        "name": "SILVER SHANKA 3 INCH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1QgE8tE9pt8XFDRxyfGccExHfrl9u4oEQ/view?usp=share_link",
+        "image": "images/16.png",
+        "price": 2600,
+        "Category":"Products"
+
+    },
+    {
+        "ID": 18,
+        "name": "SILVER SHANKA 4 INCH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1QgE8tE9pt8XFDRxyfGccExHfrl9u4oEQ/view?usp=share_link",
+        "image": "images/16.png",
+        "price": 3100,
+        "Category":"Products"
+
+    },
+    {
+        "ID": 18,
+        "name": "SILVER SHANKA 4.5 INCH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1QgE8tE9pt8XFDRxyfGccExHfrl9u4oEQ/view?usp=share_link",
+        "image": "images/16.png",
+        "price": 3400,
+        "Category":"Products"
+
+    },
+    {
+        "ID": 19,
+        "name": "SILVER SHANKA 5 INCH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1QgE8tE9pt8XFDRxyfGccExHfrl9u4oEQ/view?usp=share_link",
+        "image": "images/16.png",
+        "price": 3800,
+        "Category":"Products"
+
+    },
+ 
+
+    {
+        "ID": 20,
+        "name": "SILVER SHANKA 5.5 INCH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1QgE8tE9pt8XFDRxyfGccExHfrl9u4oEQ/view?usp=share_link",
+        "image": "images/16.png",
+        "price": 3800,
+        "Category":"Products"
+
+    },
+ 
+    {
+        "ID": 21,
+        "name": "DAKSHINAVARTI SILVER SHANKA 2 INCH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "images/21.jpg",
+        "price": 2100,
+        "Category":"Products"
+        
+       
+    },
+    {
+        "ID": 22,
+        "name": "DAKSHINAVARTI SILVER SHANKA 3 INCH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "images/21.jpg",
+        "price": 2600,
+        "Category":"Astrology"
+        
+       
+    },
+    {
+        "ID": 23,
+        "name": "DAKSHINAVARTI SILVER SHANKA 4 INCH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "images/21.jpg",
+        "price": 3100,
+        "Category":"Tarot Products"
+        
+       
+    },
+
+    {
+        "ID": 27,
+        "name": "MANYUSUKTA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "images/27.jpg",
+        "price":  "1001",
+        "Category":"Pujas and Sevas"
+        
+       
+    }
+]

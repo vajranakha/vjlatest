@@ -1,0 +1,226 @@
+[
+    {
+        "ID": 4,
+        "name": "YANTRODHARA PENDANT",
+        "Category-Product": "COPPER YANTRA PENDANT",
+        "Link": "https://drive.google.com/file/d/1VBdURpHYpC5OlJhOyW2by_6q_QPpZ1xt/view?usp=share_link",
+        "image": "images/4.jpeg",
+        "price": 200,
+        "Category": "Products",
+        "description": "Energised Yantrodhara Hanuman pendant for protection against black magic and evil eye. Provides benefits such as karya siddhi, strengthens the mind, and removes obstacles from one's career and education."
+    },
+    {
+        "ID": 5,
+        "name": "VAGDEVI KAVACH",
+        "Category-Product": "PENDANT- SEASONAL",
+        "Link": "https://drive.google.com/file/d/1gZFZUTmEVof-6PNrdooZhHxCNH8RF-91/view?usp=share_link",
+        "image": "images/5.jpeg",
+        "price": 250,
+        "Category": "Products",
+        "description": "The Vageeshwari Kavacha is a powerful amulet designed to help children with learning difficulties and speech problems, improving their academic performance and communication skills."
+    },
+    {
+        "ID": 6,
+        "name": "SUDARSHANA YANTRA",
+        "Category-Product": "FRAMED YANTRA",
+        "Link": "https://drive.google.com/file/d/1Ziz2N7PZ46C2613W7EU1-p7dk3CJWZfH/view?usp=share_link",
+        "image": "https://aadhyathmikakendra.com/wp-content/uploads/2019/12/A2639-Sri-Sudarshana-Maha-Yantra.jpg",
+        "price": 850,
+        "Category": "Products",
+        "description": "The Shree Shatrughna deity, with its rich history spanning over 5000 years, holds a prominent place in spiritual traditions as a revered pilgrimage destination. Known as part of the 'Nalambala Yatra,' the worship of Lord Shatrughna, believed to be an incarnation of the Sudarshana Chakra, is deeply rooted in devotional practices."
+    },
+    
+    {
+        "ID": 7,
+        "name": "SILVER TULASI  54 BEADS",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1iHJ0G6EhT0VRkk76i8Rr3c2QkYlKxLVL/view?usp=share_link",
+        "image": "images/7.jpg",
+        "price": 2100,
+        "Category": "SILVER PRODUCTS",
+        "description": "Traditional Udupi Silver 54-Bead Tulasi Mala. Enhance your spiritual practice with this sacred mala, ideal for daily wear."
+    },
+    {
+        "ID": 8,
+        "name": "SILVER RUDRAKSHA 54 BEADS",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1RKtkBP1QWhWpDMlX5I-2MD-50sBZIuJh/view?usp=share_link",
+        "image": "images/8.jpg",
+        "price": 2100,
+        "Category": "SILVER PRODUCTS",
+        "description": "Udupi Silver Panchmukhi Rudraksha Mala with 54 sacred beads, perfect for spiritual and devotional practices."
+    },
+    {
+        "ID": 9,
+        "name": "SUDARSHANA SALIGRAM MAALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/17vIwnwVSMBcHPTJa28wk-NxHIO6oQkk5/view?usp=share_link",
+        "image": "images/9.jpg",
+        "price": 12500,
+        "Category": "SILVER PRODUCTS",
+        "description": "A sacred mala featuring genuine Saligrama stones, representing divine connection to Lord Vishnu, adorned with elegant silver accents."
+    },
+    {
+        "ID": 11,
+        "name": "PEARLS MALA 3 INCH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1N30n957Ou34ebi9fMTSkP9BL-ctfLWde/view?usp=share_link",
+        "image": "images/11.jpg",
+        "price": 450,
+        "Category": "SILVER PRODUCTS",
+        "description": "A 3-inch mala featuring lustrous pearls, ideal for adorning deities or personal meditation and prayer rituals."
+    },
+    {
+        "ID": 12,
+        "name": "NAVARATNA MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1iP3OTkCqLBlQQtZPTj8NOOOeCHXtzdN4/view?usp=share_link",
+        "image": "images/12.jpg",
+        "price": 1400,
+        "Category": "SILVER PRODUCTS",
+        "description": "A 3-inch mala featuring nine sacred gemstones: Ruby, Pearl, Red Coral, Emerald, Yellow Sapphire, Clear quartz, Blue Sapphire, Hessonite, and Cat’s Eye, designed for deity adornment."
+    },
+    {
+        "ID": 16,
+        "name": "SILVER SHANKA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1QgE8tE9pt8XFDRxyfGccExHfrl9u4oEQ/view?usp=share_link",
+        "image": "images/16.png",
+        "sizes": [
+            {
+                "size": "2.5 INCH",
+                "price": 2150
+            },
+            {
+                "size": "3 INCH",
+                "price": 2600
+            },
+            {
+                "size": "4 INCH",
+                "price": 3100
+            },
+            {
+                "size": "4.5 INCH",
+                "price": 3400
+            },
+            {
+                "size": "5 INCH",
+                "price": 3800
+            },
+            {
+                "size": "5.5 INCH",
+                "price": 3800
+            }
+        ],
+        "Category": "SILVER PRODUCTS",
+        "description": "A traditional Udupi Silver Shanka, available in multiple sizes, perfect for enhancing spiritual rituals and ceremonies."
+    },
+    {
+        "ID": 21,
+        "name": "DAKSHINAVARTI SILVER SHANKA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "images/21.jpg",
+        "sizes": [
+            {
+                "size": "2 INCH",
+                "price": 2100
+            },
+            {
+                "size": "3 INCH",
+                "price": 2600
+            },
+            {
+                "size": "4 INCH",
+                "price": 3100
+            }
+        ],
+        "Category": "SILVER PRODUCTS",
+        "description": "Authentic Dakshinavarti Silver Shanka, available in various sizes, crafted for religious and spiritual practices."
+    },
+
+    {
+        "ID": 22,
+        "name": "3 INCH CORAL MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1iP3OTkCqLBlQQtZPTj8NOOOeCHXtzdN4/view?usp=share_link",
+        "image": "images/22.jpeg",
+        "price": 900,
+        "Category": "SILVER PRODUCTS",
+        "description": "This vibrant mala is designed for adorning deities, bringing a touch of sacred energy to your worship rituals. **Key Features:** - **Sacred Coral Beads:** Known for their spiritual significance and vibrant red color, ideal for deity adornment. - **Compact Size:** 3-inch beads make it suitable for both personal and temple use. - **Craftsmanship:** Carefully crafted to ensure authenticity and reverence in your rituals. Add this Coral Mala to your spiritual practice to enrich your connection with the divine and elevate your worship experience."
+    },
+    {
+        "ID": 23,
+        "name": "3 INCH PEARLS- CORAL MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1iP3OTkCqLBlQQtZPTj8NOOOeCHXtzdN4/view?usp=share_link",
+        "image": "images/23.jpeg",
+        "price": 1150,
+        "Category": "SILVER PRODUCTS",
+        "description": "Elevate your worship with our 3-inch Pear-Coral Mala, crafted with care by Vajra Nakha. Featuring a blend of luminous pearls and vibrant red coral, this mala is perfect for adorning deities. **Benefits:** Pearl is known for its calming and protective qualities, while coral enhances vitality and courage, making this mala a powerful tool for spiritual growth and divine connection. Adorn your deities with this mala to infuse your rituals with grace and strength."
+    },
+    {
+        "ID": 24,
+        "name": "11 INCH LAKSHMI COIN MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1iP3OTkCqLBlQQtZPTj8NOOOeCHXtzdN4/view?usp=share_link",
+        "image": "images/24.jpeg",
+        "price": 3500,
+        "Category": "SILVER PRODUCTS",
+        "description": "Adorn your deities with our exquisite 11-inch Silver Lakshmi Coin Mala, featuring a durable gold polish. This stunning mala combines the purity of silver with the elegance of gold, perfect for divine worship. **Benefits:** The Lakshmi coin design is believed to attract prosperity and abundance, enhancing the spiritual ambiance of your rituals and offerings. This long-lasting mala will add a touch of grace and divine energy to your worship of Goddess Lakshmi."
+    },
+    {
+        "ID": 25,
+        "name": "YANTRODHARA YANTRA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1iP3OTkCqLBlQQtZPTj8NOOOeCHXtzdN4/view?usp=share_link",
+        "image": "images/25.jpeg",
+        "price": 250,
+        "Category": "SILVER PRODUCTS",
+        "description": "Energised yantrodhara hanuman yantra for protection against blackmagic , evil eye and gaining benefits like karya siddhi , strengthening the mind , removing obstacles from one’s career and education growth .package contains : nirmalya Prasadam , yantra , instructions on how to worship lord yantrodhara hanuman"
+    },
+
+    {
+        "ID": 27,
+        "name": "MOJO BAG- HEALTH",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "https://markberepeterson.com/wp-content/uploads/2023/03/img_0403.jpg",
+        "price": 4500,
+        "Category": "Tarot Products",
+        "description": ""
+    },
+    {
+        "ID": 28,
+        "name": "MOJO BAG- FINANCE",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "https://i.etsystatic.com/20336519/r/il/4f8dff/4884282972/il_300x300.4884282972_mell.jpg",
+        "price": 4500,
+        "Category": "Tarot Products",
+        "description": ""
+    }
+    ,
+    {
+        "ID": 29,
+        "name": "MOJO BAG- LOVE",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcbHxAjSzcuLaTu4EPkBZMqvJdtx3xxOgaeLQjfeSW8U8i4T3Ba367eTguXeYZ7Isolc&usqp=CAU",
+        "price": 4500,
+        "Category": "Tarot Products",
+        "description": ""
+    },
+    {
+        "ID": 30,
+        "name": "MOJO BAG- ATTRACT LOST LOVER",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "https://i.etsystatic.com/21458404/r/il/917b83/3685084449/il_570xN.3685084449_nqpj.jpg",
+        "price": 4500,
+        "Category": "Tarot Products",
+        "description": ""
+    }
+
+
+]

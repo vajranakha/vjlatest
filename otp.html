@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTP Verification</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+        
+        @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+        
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background: #0a0a0a;
+        }
+        
+        :where(.container, form, .input-field,  header) {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;  
+        }
+        
+        .container {
+            background: #fff;
+            padding: 30px 65px;
+            row-gap: 20px;
+            border-radius: 12px;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .container header {
+            height: 65px;
+            width: 65px;
+            border-radius: 50%;
+            font-size: 2.5rem;
+            color: #fff;
+        }
+        
+        .container h4 {
+            font-size: 1.25rem;
+            font-weight: 700px;
+            color: #333;
+        }
+        
+        form .input-field {
+            flex-direction: row;
+            column-gap: 10px; 
+        }
+        
+        .input-field input {
+            height: 45px;
+            width: 42px;
+            border-radius: 6px;
+            border: 1px solid #ddd;
+            outline: none;
+            font-size: 1.125rem;
+            text-align: center;
+        }
+        
+        .input-field input:focus {
+            box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+        }
+        
+        .input-field input::-webkit-inner-spin-button, .input-field input::-webkit-outer-spin-button {
+            display: none;
+        }
+        
+        form button {
+            display: block;
+            width: 100%;
+            font-size: 1rem;
+            border-radius: 6px;
+            margin-top: 25px;
+            padding: 4px 9px;
+            color: #fff;
+            background: #0a0a0a;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        #timer {
+            font-size: 1rem;
+            color: #333;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h4>Enter OTP</h4>
+        <form action="#" method="POST" id="otp-form">
+            <div class="input-field">
+                <input type="number" maxlength="1" id="otp-1">
+                <input type="number" maxlength="1" id="otp-2" disabled>
+                <input type="number" maxlength="1" id="otp-3" disabled>
+                <input type="number" maxlength="1" id="otp-4" disabled>
+            </div>
+            <button type="submit" id="verify-btn" disabled>Verify OTP</button>
+        </form>
+        <div id="timer">5:00</div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            const inputs = document.querySelectorAll('.input-field input');
+            const verifyBtn = document.getElementById('verify-btn');
+            const timerDisplay = document.getElementById('timer');
+            let currentInput = 0;
+            let otp = '';
+
+            inputs[0].focus();
+
+            inputs.forEach((input, index) => {
+                input.addEventListener('input', () => {
+                    otp += input.value;
+                    if (index < inputs.length - 1 && input.value) {
+                        inputs[index + 1].removeAttribute('disabled');
+                        inputs[index + 1].focus();
+                    }
+                    if (index === inputs.length - 1) {
+                        verifyBtn.removeAttribute('disabled');
+                    }
+                });
+            });
+
+            function startTimer(duration, display) {
+                let timer = duration, minutes, seconds;
+                const interval = setInterval(() => {
+                    minutes = parseInt(timer / 60, 10);
+                    seconds = parseInt(timer % 60, 10);
+                    
+                    minutes = minutes < 10 ? "0" + minutes : minutes;
+                    seconds = seconds < 10 ? "0" + seconds : seconds;
+
+                    display.textContent = minutes + ":" + seconds;
+
+                    if (--timer < 0) {
+                        clearInterval(interval);
+                        alert('OTP expired');
+                        window.location.reload();
+                    }
+                }, 1000);
+            }
+
+            startTimer(300, timerDisplay); // 5 minutes countdown
+
+            document.getElementById('otp-form').addEventListener('submit', (event) => {
+                event.preventDefault();
+                const otpValue = Array.from(inputs).map(input => input.value).join('');
+                console.log(otpValue);
+                
+                const token = sessionStorage.getItem('authToken');
+                if (!token) {
+                    alert('Token not Found');
+                } 
+
+                fetch('http://www.api.vajranakha.org/loginregister/verifyOtp', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${token}` // Send the token in the header
+                    },
+                    body: JSON.stringify({ otp: otpValue })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+
+                        alert('OTP Verified Successfully');
+                        sessionStorage.removeItem('authToken');
+                        window.location.href = "shop-login.html";
+                        
+                    } else {
+                        alert('Invalid OTP');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('An error occurred');
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+

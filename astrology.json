@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Brahmashree Achyuthan",
+      "price": 555,
+      "duration": "15 MINS",
+      "image": "images/a1.jpg"
+    },
+    {
+      "name": "TAROT MAHEE",
+      "price": 555,
+      "duration": "15 MINS"
+      ,
+      "image": "images/a4.jpeg"
+    },
+    {
+      "name": "TAROT CHINMAYEE",
+      "price": 555,
+      "duration": "15 MINS",
+      
+      "image": "images/a3.jpeg"
+    },
+    {
+      "name": "VIDWAN PHANEENDRA ACHAR",
+      "price": 555,
+      "duration": "15 MINS",
+      "image": "images/a2.jpg"
+    }
+  ]
+  

@@ -1,0 +1,150 @@
+[
+    {
+        "ID": 4,
+        "name": "YANTRODHARA PENDANT",
+        "Category-Product": "COPPER YANTRA PENDANT",
+        "Link": "https://drive.google.com/file/d/1VBdURpHYpC5OlJhOyW2by_6q_QPpZ1xt/view?usp=share_link",
+        "image": "images/4.jpeg",
+        "price": 200,
+        "Category": "Products"
+    },
+    {
+        "ID": 5,
+        "name": "VAGDEVI KAVACH",
+        "Category-Product": "PENDANT- SEASONAL",
+        "Link": "https://drive.google.com/file/d/1gZFZUTmEVof-6PNrdooZhHxCNH8RF-91/view?usp=share_link",
+        "image": "images/5.jpeg",
+        "price": 250,
+        "Category": "Products"
+    },
+    {
+        "ID": 7,
+        "name": "SILVER TULASI BEADS",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1iHJ0G6EhT0VRkk76i8Rr3c2QkYlKxLVL/view?usp=share_link",
+        "image": "images/7.jpg",
+        "sizes": [
+            {
+                "size": "54 BEADS",
+                "price": 2100
+            }
+        ],
+        "Category": "Products"
+    },
+    {
+        "ID": 8,
+        "name": "SILVER RUDRAKSHA BEADS",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1RKtkBP1QWhWpDMlX5I-2MD-50sBZIuJh/view?usp=share_link",
+        "image": "images/8.jpg",
+        "sizes": [
+            {
+                "size": "54 BEADS",
+                "price": 2100
+            }
+        ],
+        "Category": "Products"
+    },
+    {
+        "ID": 9,
+        "name": "SUDARSHANA SALIGRAM MAALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/17vIwnwVSMBcHPTJa28wk-NxHIO6oQkk5/view?usp=share_link",
+        "image": "images/9.jpg",
+        "price": 12500,
+        "Category": "Products"
+    },
+    {
+        "ID": 11,
+        "name": "PEARLS MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1N30n957Ou34ebi9fMTSkP9BL-ctfLWde/view?usp=share_link",
+        "image": "images/11.jpg",
+        "sizes": [
+            {
+                "size": "3 INCH",
+                "price": 450
+            }
+        ],
+        "Category": "Products"
+    },
+    {
+        "ID": 12,
+        "name": "NAVARATNA MALA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1iP3OTkCqLBlQQtZPTj8NOOOeCHXtzdN4/view?usp=share_link",
+        "image": "images/12.jpg",
+        "sizes": [
+            {
+                "size": "3 INCH",
+                "price": 1400
+            }
+        ],
+        "Category": "Products"
+    },
+    {
+        "ID": 16,
+        "name": "SILVER SHANKA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1QgE8tE9pt8XFDRxyfGccExHfrl9u4oEQ/view?usp=share_link",
+        "image": "images/16.png",
+        "sizes": [
+            {
+                "size": "2.5 INCH",
+                "price": 2150
+            },
+            {
+                "size": "3 INCH",
+                "price": 2600
+            },
+            {
+                "size": "4 INCH",
+                "price": 3100
+            },
+            {
+                "size": "4.5 INCH",
+                "price": 3400
+            },
+            {
+                "size": "5 INCH",
+                "price": 3800
+            },
+            {
+                "size": "5.5 INCH",
+                "price": 3800
+            }
+        ],
+        "Category": "Products"
+    },
+    {
+        "ID": 21,
+        "name": "DAKSHINAVARTI SILVER SHANKA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "images/21.jpg",
+        "sizes": [
+            {
+                "size": "2 INCH",
+                "price": 2100
+            },
+            {
+                "size": "3 INCH",
+                "price": 2600
+            },
+            {
+                "size": "4 INCH",
+                "price": 3100
+            }
+        ],
+        "Category": "Products"
+    },
+    {
+        "ID": 27,
+        "name": "MANYUSUKTA",
+        "Category-Product": "SILVER PRODUCTS",
+        "Link": "https://drive.google.com/file/d/1jGhPUhOvE6RkS0F8iPGACd9rljiq3im5/view?usp=share_link",
+        "image": "images/27.jpg",
+        "price": 1001,
+        "Category": "Pujas and Sevas"
+    }
+]
