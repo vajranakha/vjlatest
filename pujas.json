@@ -213,8 +213,8 @@
   },
   {
       "name": "Kamakhya Devi Puja",
-      "Individual": 5001,
-      "Family": 2001,
+      "Individual": 2001,
+      "Family": 5001,
       "image": "images/p12.jpg",
       "description": "Kamakhya Devi Puja is a revered ritual dedicated to Goddess Kamakhya, a powerful and enigmatic form of the Divine Feminine. As one of the Mahavidyas and the presiding deity of the Kamakhya Temple in Assam, she embodies the essence of fertility, desire, and cosmic energy.",
       "benefits": [
@@ -228,18 +228,18 @@
       "sizes": [
           {
               "size": "Individual",
-              "price": 5001
+              "price": 2001
           },
           {
               "size": "Family",
-              "price": 2001
+              "price": 5001
           }
       ]
   },
   {
       "name": "Sudarshana Homa",
-      "Individual": 5001,
-      "Family": 3001,
+      "Individual": 3001,
+      "Family": 5001,
       "image": "images/p13.jpeg",
       "description": "Sudarshana Homa is a sacred Vedic ritual dedicated to Lord Sudarshana, the divine protector embodied in the Sudarshana Chakra of Lord Vishnu. This powerful homa involves offering sacred oblations into the fire while reciting mantras to invoke the goddess\u00e2\u20ac\u2122s purifying and protective energies.",
       "benefits": [
@@ -253,18 +253,18 @@
       "sizes": [
           {
               "size": "Individual",
-              "price": 5001
+              "price": 3001
           },
           {
               "size": "Family",
-              "price": 3001
+              "price": 5001
           }
       ]
   },
   {
       "name": "Mrityunjaya Homa",
-      "Individual": 5001,
-      "Family": 3001,
+      "Individual": 3001,
+      "Family": 5001,
       "image": "images/p14.png",
       "description": "Mrityunjaya Homa is a profound Vedic ritual dedicated to Lord Shiva in his form as Mrityunjaya, the conqueror of death. This sacred homa involves the ceremonial offering of oblations into the fire while reciting the Mrityunjaya Mantra, which is known for its potent spiritual and healing properties.",
       "benefits": [
@@ -278,11 +278,11 @@
       "sizes": [
           {
               "size": "Individual",
-              "price": 5001
+              "price": 3001
           },
           {
               "size": "Family",
-              "price": 3001
+              "price": 5001
           }
       ]
   },
@@ -290,8 +290,8 @@
 
   {
       "name": "Ganapathy Homa",
-      "Individual": 5001,
-      "Family": 3001,
+      "Individual": 3001,
+      "Family": 5001,
       "image": "images/p15.png",
       "description": "Ganapathy Homa is a revered Vedic ritual dedicated to Lord Ganesha, the remover of obstacles and the deity of wisdom and prosperity. This sacred homa involves offering oblations into the fire while reciting specific mantras and hymns to invoke Lord Ganesha's divine blessings.",
       "benefits": [
@@ -305,17 +305,17 @@
       "sizes": [
           {
               "size": "Individual",
-              "price": 5001
+              "price": 3001
           },
           {
               "size": "Family",
-              "price": 3001
+              "price": 5001
           }
       ]
   },
   {
       "name": "Chandika Homa",
-      "Individual": 10001,
+      "Individual": 1001,
       "Family": 5001,
       "image": "images/p18.jpeg",
       "description": "Chandika Homa is a powerful Vedic ritual dedicated to Goddess Chandika, a fierce and protective form of the Divine Feminine. This sacred homa involves the offering of oblations into the fire while reciting specific mantras and hymns to invoke the goddess's energy and blessings.",
@@ -330,7 +330,7 @@
       "sizes": [
           {
               "size": "Individual",
-              "price": 10001
+              "price": 1001
           },
           {
               "size": "Family",
